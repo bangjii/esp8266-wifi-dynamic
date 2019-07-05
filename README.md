@@ -15,7 +15,8 @@ command:
 example: 
   save(Redmi,12345678)
 ```
-without quote or double quote, and dont use space between SSID(comma)pasword.
+without quote or double quote, and dont use space between SSID(comma)pasword. After saving new connection reset or restart board esp8266. 
+
 To erase existing SSID and password you can using this command :
 
 ```
